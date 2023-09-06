@@ -39,8 +39,6 @@ The output will be:
 2023-09-05 12:00:02 ERROR: Failed to load module
 ```
 
-Absolutely, here's a concise addition showcasing `grep` used with a pipe:
-
 #### Example - grep on a command output
 
 Suppose you have a command `command` that generates a stream of output. You can filter this output using `grep` with a pipe (`|`). In the mock example below, we use `cat` as a placeholder for your command:
