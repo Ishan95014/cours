@@ -4,6 +4,16 @@ title: cours.ishan.fr
 
 ### Menu du site
 
+#### Cours 
+###### Programmation avancée (Python)
+
+[[python]]
+
+###### TE (Psychologie Sociale)
+
+
+###### Automatisation de la chaîne de production (Linux)
+
 [[Combine Redirections and Pipes]]
 
 [[File structures]]
@@ -15,6 +25,10 @@ title: cours.ishan.fr
 [[Pipes]]
 
 [[Redirections]]
+
+###### Virtualisation (Cloud)
+
+[[intro virtualisation]]
 
 [[Pale blue dot]]
 
@@ -29,7 +43,6 @@ title: cours.ishan.fr
 [[Typst > LaTeX]]
 
 [[UNIX commands]]
-
 
 ----
 
