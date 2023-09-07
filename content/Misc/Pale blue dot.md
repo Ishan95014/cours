@@ -14,6 +14,7 @@
 
 [Recording by Carl Sagan](https://www.youtube.com/watch?v=GO5FwsblpT8&t=17s)
 
-
 ![[Pale_Blue_Dot.png]]
+
+
 #quotes 

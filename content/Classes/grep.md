@@ -1,4 +1,4 @@
-### grep usage example
+### Grep usage example
 
 #### Basic Usage
 
