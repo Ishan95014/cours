@@ -4,25 +4,28 @@ title: cours.ishan.fr
 
 # Menu du site
 
-#### Cours 
-###### Programmation avancée (Python)
+## Cours 
+#### Programmation avancée (Python)
 [[python]]
-###### TE (Psychologie Sociale)
-###### Automatisation de la chaîne de production (Linux)
+#### TE (Psychologie Sociale)
+#### Automatisation de la chaîne de production (Linux)
 [[Combine Redirections and Pipes]]
+
 [[File structures]]
+
 [[grep]]
+
 [[Inodes]]
 
 [[Pipes]]
 
 [[Redirections]]
 
-###### Virtualisation (Cloud)
+#### Virtualisation (Cloud)
 
 [[intro virtualisation]]
 
-##### Misc
+## Misc
 
 [[Pale blue dot]]
 
@@ -40,7 +43,7 @@ title: cours.ishan.fr
 
 ----
 
-#### Not ready yet
+### Not ready yet
 
 [[The bases of programming]]
 
